@@ -1,0 +1,53 @@
+/*Choose a cool Font Text Scheme*/
+
+h1{
+  font-family: 'Indie Flower', cursive;
+  text-align: center;
+}
+
+/*Choose a color palette from here:
+https://coolors.co/
+or create your own here:
+paletton.com/*/
+
+/*
+I chose:
+
+#247BA0
+#70C1B3
+#B2DBBF
+#F3FFBD
+#FF1654
+
+*/
+
+.art{
+  margin: auto;
+}
+
+
+td{
+  height: 250px;
+  padding: 100px;
+  border: 12px solid white;
+}
+
+#one{
+  background-color: #5f0f40;
+}
+
+#two{
+  background-color: #9a031e;
+}
+
+#three{
+  background-color: #fb8b24;
+}
+
+#four{
+  background-color: #e36414;
+}
+
+#five{
+  background-color: #0f4c5c;
+}

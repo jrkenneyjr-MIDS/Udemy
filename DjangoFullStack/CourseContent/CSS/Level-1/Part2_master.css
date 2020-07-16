@@ -1,0 +1,20 @@
+
+body {
+  background: url(https://cdn.spacetelescope.org/archives/images/wallpaper2/heic2007a.jpg)
+}
+
+div {
+  background-color: blue;
+  border-color: orange;
+  border-width: 10px;
+  border-style: dotted;
+}
+
+p{
+  color:magenta;
+}
+
+span{
+  background: red;
+  color: white
+}
